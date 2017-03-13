@@ -1,0 +1,30 @@
+body {
+  background: url("/random_quote/thunder.jpg") no-repeat center center fixed;
+}
+h1 {
+  font-weight: bold;
+  opacity: 0.8;
+  padding: 10px;
+  margin-top: 5%;
+}
+#titlebox {
+  background-color: #eee;
+  opacity: 0.6;
+  margin-top: 5%;
+  border-radius: 5%;
+}
+#buttonbox {
+  margin-top: 10%;
+  opacity: 0.7;
+}
+#quotebox {
+  background-color: #eee;
+  opacity: 0.6;
+  
+  margin-top: 10%;
+  border-radius: 5%;
+  font-size: 20px;
+}
+#quotetext {
+  padding: 10px;
+}
